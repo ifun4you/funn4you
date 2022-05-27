@@ -1,0 +1,101 @@
+ body{
+      background-color: #f8a100;
+      text-align: center;
+  }
+
+h1 , span {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+  button{
+    background-color: #B70000;
+    margin: 60px;
+    padding: 10px 15px;
+    border-radius: 7px;
+    border-color: #F8D400;
+  }
+  button:hover{
+    background-color: #b10909;
+  }
+  button::before{
+    background-color:#cc0000 ;
+  }
+
+  button {
+    margin-top: -3px;
+  }
+
+  .b2{
+    background-color: #B70000;
+    padding: 10px 32px;
+    border-radius: 7px;
+    margin-top: -60px;
+  }
+  .b3{
+    background-color: #B70000;
+    padding: 15px 74px;
+    margin-top: -60px;
+    border-radius: 7px;
+  }
+  .b4{
+    background-color: #B70000;
+    margin-top: -60px;
+    padding: 17px 70px;
+    border-radius: 7px;
+
+  }
+  .b5{
+    background-color: #B70000;
+    margin-top: -60px;
+    padding: 7px 50px;
+    border-radius: 7px;
+
+  }
+  
+   .b6{
+    background-color: #B70000;
+    margin-top: -60px;
+    padding: 16px 65px;
+    border-radius: 7px;
+
+  }
+  .b7{
+    background-color: #B70000;
+    padding: 7px 65px;
+    margin-top: -60px;
+    border-radius: 7px;
+  }
+  .b8{
+    background-color: #B70000;
+    padding: 7px 65px;
+    margin-top: -60px;
+    border-radius: 7px;
+  }
+
+
+
+  
+  .img5{
+    width: 140px;
+  }
+  #b1{
+    width: 60%;
+  }
+  .imj{
+    width: 90px;
+  }
+  .img2{
+    width: 100px;
+  }
+  .img6{
+   width: 110px;
+  }
+
+
+  h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+  }
